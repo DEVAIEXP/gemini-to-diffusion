@@ -1,0 +1,9 @@
+{
+  "google_api_key": "",
+  "huggingface_api_key": "",
+  "temperature": 0.9,
+  "top_p": 0,
+  "top_k": 1,
+  "max_prompt_tokens": 80,
+  "max_output_tokens": 8192
+}
